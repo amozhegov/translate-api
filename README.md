@@ -1,4 +1,3 @@
-# translate-api
 # Translation API Test Automation
 
 This project automates testing for a simple translation API. The main objective is to verify that translations returned from the API match expected results. The tests are fully automated using pytest with mocked API responses.Logging
